@@ -1,0 +1,2 @@
+# PythonSocketIOClientSandbox
+SocketIO practice sandbox
